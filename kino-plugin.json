@@ -1,8 +1,8 @@
 {
-  "id": "monoschinos-anime-plugin",
-  "name": "MonosChinos Anime",
+  "id": "monoschinos-v2-plugin",
+  "name": "MonosChinos Anime HD",
   "description": "Catálogo de anime en español subtitulado y latino desde MonosChinos.",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "apiVersion": 6,
   "entry": "plugin.js",
   "icon": "icon.png",
