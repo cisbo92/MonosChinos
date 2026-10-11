@@ -1,0 +1,15 @@
+{
+  "id": "monoschinos-v3-plugin",
+  "name": "MonosChinos Nuevo",
+  "description": "Catálogo de anime en español subtitulado y latino desde MonosChinos.",
+  "version": "3.0.0",
+  "apiVersion": 6,
+  "entry": "plugin.js",
+  "icon": "icon.png",
+  "hosts": [
+    "vww.monoschinos2.net",
+    "monoschinos2.net",
+    "*.monoschinos2.net"
+  ],
+  "streamHosts": "any"
+}
